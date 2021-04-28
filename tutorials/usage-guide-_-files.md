@@ -4,7 +4,7 @@ order: 3
 parent: Intro Tutorials
 ---
 
-# Usage Guide \_ Files
+# Files
 
 ## Introduction
 

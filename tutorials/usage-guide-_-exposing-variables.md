@@ -4,7 +4,7 @@ order: 5
 parent: Intro Tutorials
 ---
 
-# Usage Guide \_ Exposing Variables
+# Exposing Variables
 
 ## Introduction
 

@@ -4,7 +4,7 @@ order: 1
 parent: Animation Tutorials
 ---
 
-# Usage Guide \_ Introduction to Animation
+# Introduction to Animation
 
 ## Introduction
 

@@ -4,7 +4,7 @@ order: 3
 parent: Animation Tutorials
 ---
 
-# Usage Guide\_ Playing Animations inside other Animations
+# Playing Animations inside other Animations
 
 ## Introduction
 

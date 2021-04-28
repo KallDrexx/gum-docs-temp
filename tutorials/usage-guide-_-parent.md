@@ -4,7 +4,7 @@ order: 6
 parent: Intro Tutorials
 ---
 
-# Usage Guide \_ Parent
+# Parent
 
 ## Introduction
 

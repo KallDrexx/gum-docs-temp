@@ -4,7 +4,7 @@ order: 2
 parent: Intro Tutorials
 ---
 
-# Usage Guide \_ Properties Window
+# Properties Window
 
 ## Introduction
 

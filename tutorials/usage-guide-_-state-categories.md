@@ -4,7 +4,7 @@ order: 8
 parent: Intro Tutorials
 ---
 
-# Usage Guide \_ State Categories
+# State Categories
 
 ## Introduction
 

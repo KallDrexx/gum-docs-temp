@@ -4,7 +4,7 @@ order: 7
 parent: Intro Tutorials
 ---
 
-# Usage Guide \_ States
+# States
 
 ## Introduction
 

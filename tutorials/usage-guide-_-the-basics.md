@@ -4,7 +4,7 @@ order: 1
 parent: Intro Tutorials
 ---
 
-# Usage Guide \_ The Basics
+# The Basics
 
 ## Introduction
 

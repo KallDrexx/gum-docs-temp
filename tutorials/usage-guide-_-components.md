@@ -4,7 +4,7 @@ order: 4
 parent: Intro Tutorials
 ---
 
-# Usage Guide \_ Components
+# Components
 
 ## Introduction
 
